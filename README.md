@@ -4,10 +4,14 @@
 我有一个关于一套基于**膜宇宙多维谐振**的思想实验假说，借用高维投影、谐振耦合等概念，尝试对灵异见闻、濒死体验、前世记忆等现象构建自洽模型。假说认为：人类大脑是高维谐振最强的发生器，肌肉骨骼等组织能量密度低，产生的谐振微弱；人脑活动会在高维空间留下谐振构型，人死亡后该谐振结构不会立刻消散，可在低维宇宙形成投影。
 
 本思想实验模型以膜宇宙为基础，假定引力波是三维膜宇宙与高维体空间唯一的数据交互通道。生命大脑神经活动产生的海量微弱引力效应相互叠加，形成复合多频引力波谐振构型，并通过引力波扰动膜界面，将记忆、情绪、执念等信息永久写入高维空间，高维相当于宇宙级永久信息备份库。
+
 高维内存储的谐振备份不会自行销毁。现实世界无法读取历史备份，主要存在两种原因：一是三维环境的各类能量 引力噪声将信号淹没；二是后世生命体的神经 引力多频组合与历史备份整套频率构型差异巨大，如同失传的古代语言，无法完成共振解码。有效的跨膜交互必须依靠整套多频组合完整匹配，仅个别频率重合不会产生明显作用。
+
 谐振备份可以通过引力波向三维膜投影，通常存在距离衰减；少数特殊敏感个体可调节自身谐振模式，能够突破地理限制读取异地、远古的高维备份。城市、发电厂等高噪声环境会抬高背景干扰，降低读取成功率；深山、高原等低人为干扰环境更易触发跨膜共振。核弹等极端高能事件不会销毁高维备份，只会造成局部信号淹没。动物同样会写入高维备份，但物种之间存在多频编码隔离。
+
 肉体死亡仅终止三维侧的写入更新，高维备份永久留存。新生儿若先天脑 引力多频组合匹配，可拷贝得到记忆碎片，形成转世假象；敏感个体接收古老备份信息可对应天授史诗、阿卡西记录类现象。 实验验证分为两个阶段：现阶段只能对特异体质人群开展神经对比的前置探索；未来需要精度极高的宽频引力波探测仪器，在低噪声野外环境，通过复现人体引力波模板开展匹配探测。整套模型遵守三维宇宙光速、因果律与光锥规则。
-前置基础假设
+
+## 前置基础假设
 以下为本模型成立所必须的基础预设，均不属于现代已验证的物理结论：
 1.	宇宙结构：我们所处的现实世界为三维膜宇宙，外部存在高维体空间；普通物质、电磁波、光子被束缚在三维膜，引力与引力波可以穿透三维膜，作为跨维度唯一信息载体。
 2.	信号生成：生物大脑神经活动产生大量微弱引力效应，能够叠加形成稳定的复合多频引力波谐振构型；肌肉、骨骼因能量密度过低无法生成有效构型。
@@ -34,24 +38,15 @@ Resonant backups can project onto the 3D brane via gravitational waves, generall
 Physical death merely terminates writing and updating on the 3D side, while higher-dimensional backups persist eternally. If a newborn possesses an innate brain-gravitational multi-frequency match, fragments of memories may be copied, creating the illusion of reincarnation. Sensitive individuals receiving ancient backup information correspond to phenomena such as divinely inspired epics and the Akashic records. Experimental verification falls into two phases: the present stage can only carry out preliminary explorations with neural comparisons on subjects with exceptional constitutions. Future work will require ultra-high-precision broadband gravitational wave detectors deployed in low-noise wilderness environments to perform matching detection by reproducing human gravitational wave templates. The full model complies with the speed-of-light limit, causality and light-cone rules of the 3D universe.
 
 ## Preliminary Foundational Assumptions
-
 The following are necessary foundational premises for this model, none of which constitute experimentally verified physical conclusions in modern physics:
-
-Cosmic structure: Our observable reality is a 3-dimensional brane universe, with a higher-dimensional bulk space external to it. Ordinary matter, electromagnetic waves and photons are confined to the 3D brane. Gravity and gravitational waves can penetrate the 3D brane, acting as the sole information carrier across dimensions.
-
-Signal generation: Neural activity in biological brains produces numerous faint gravitational effects, which can superimpose to form stable composite multi-frequency gravitational wave resonant configurations. Muscles and bones cannot generate valid configurations due to insufficient energy density.
-
-Writing and storage: Gravitational waves perturb the interface of the 3D brane, fully imprinting composite multi-frequency resonant configurations into the higher-dimensional bulk space. The higher dimension possesses infinite storage capacity, and all encoded information is preserved permanently without spontaneous dissipation or destruction.
-
-Resonant interaction: Cross-dimensional interaction demands a complete match of the entire multi-frequency set. Overlap of only one or partial frequencies cannot produce prominent phenomena. Upon successful matching, higher-dimensional signals may act back on the 3D brane and modulate neural electrical activity in human brains.
-
-Interference mechanism: Anthropogenic electromagnetic noise, industrial noise, and high-energy events like nuclear explosions within the 3D world do not erase higher-dimensional backups. They only generate strong broadband signals that locally mask and obscure target signals.
-
-Projection and attenuation: Higher-dimensional resonant backups exert projection effects on the 3D brane through gravitational waves, typically attenuating with geographical distance. Certain sensitive individuals can actively adjust their own multi-frequency resonant combinations to overcome distance limits and retrieve remote and ancient backups.
-
-Species isolation: Brains of different species generate independent sets of multi-frequency resonant codes, making resonant matching across species extremely difficult.
-
-Causal constraints: All cross-dimensional information interactions must not violate the speed-of-light bound, causality and light-cone rules intrinsic to the 3D brane universe.
+1. Cosmic structure: Our observable reality is a 3-dimensional brane universe, with a higher-dimensional bulk space external to it. Ordinary matter, electromagnetic waves and photons are confined to the 3D brane. Gravity and gravitational waves can penetrate the 3D brane, acting as the sole information carrier across dimensions.
+2. Signal generation: Neural activity in biological brains produces numerous faint gravitational effects, which can superimpose to form stable composite multi-frequency gravitational wave resonant configurations. Muscles and bones cannot generate valid configurations due to insufficient energy density.
+3. Writing and storage: Gravitational waves perturb the interface of the 3D brane, fully imprinting composite multi-frequency resonant configurations into the higher-dimensional bulk space. The higher dimension possesses infinite storage capacity, and all encoded information is preserved permanently without spontaneous dissipation or destruction.
+4. Resonant interaction: Cross-dimensional interaction demands a complete match of the entire multi-frequency set. Overlap of only one or partial frequencies cannot produce prominent phenomena. Upon successful matching, higher-dimensional signals may act back on the 3D brane and modulate neural electrical activity in human brains.
+5. Interference mechanism: Anthropogenic electromagnetic noise, industrial noise, and high-energy events like nuclear explosions within the 3D world do not erase higher-dimensional backups. They only generate strong broadband signals that locally mask and obscure target signals.
+6. Projection and attenuation: Higher-dimensional resonant backups exert projection effects on the 3D brane through gravitational waves, typically attenuating with geographical distance. Certain sensitive individuals can actively adjust their own multi-frequency resonant combinations to overcome distance limits and retrieve remote and ancient backups.
+7. Species isolation: Brains of different species generate independent sets of multi-frequency resonant codes, making resonant matching across species extremely difficult.
+8. Causal constraints: All cross-dimensional information interactions must not violate the speed-of-light bound, causality and light-cone rules intrinsic to the 3D brane universe.
 
 
 ### Notes
